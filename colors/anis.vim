@@ -135,7 +135,7 @@ hi vimHiCtermFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 hi vimHiGuiFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 " }}}
 
-hi Sneak ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#c7ff8e guibg=NONE
+hi SneakScope ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#c7ff8e guibg=NONE
 
 hi LibraryIdent ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8EC7FF guibg=NONE
 hi LibraryFunc ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8FC8FF guibg=NONE
