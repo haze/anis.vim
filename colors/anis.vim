@@ -1,12 +1,14 @@
-" Panic Theme v1.2.8
+" Anis Theme v1.2.8
 "
-" https://github.com/jdsimcoe/panic.vim
+" https://github.com/haze/anis.vim
+" (based on https://github.com/jdsimcoe/panic.vim)
 "
 " Copyright 2016, All rights reserved
 "
 " Code licensed under the MIT license
 "
 " @author Jonathan Simcoe <@jdsimcoe>
+" @author Haze Booth <isnt@haze.cool>
 
 set background=dark
 highlight clear
@@ -132,6 +134,8 @@ hi vimOption ctermfg=37 ctermbg=NONE cterm=NONE guifg=#3DE163 guibg=NONE
 hi vimHiCtermFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 hi vimHiGuiFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 " }}}
+
+hi Sneak ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#c7ff8e guibg=NONE
 
 hi LibraryIdent ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8EC7FF guibg=NONE
 hi LibraryFunc ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8FC8FF guibg=NONE
