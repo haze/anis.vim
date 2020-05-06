@@ -138,8 +138,8 @@ hi vimHiGuiFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 hi Sneak guifg=NONE guibg=#525252 ctermfg=NONE ctermbg=NONE
 hi SneakScope guifg=NONE guibg=#525252 ctermfg=NONE ctermbg=NONE
 
-hi NERDTreeDir guifg=#EEEEEE guibg=NONE ctermfg=NONE ctermbg=NONE
-hi NERDTreeUp guifg=#EEEEEE guibg=NONE ctermfg=NONE ctermbg=NONE
+hi NERDTreeDir guifg=#d6c0c0 guibg=NONE ctermfg=NONE ctermbg=NONE
+hi NERDTreeUp guifg=#d6c0c0 guibg=NONE ctermfg=NONE ctermbg=NONE
 
 hi LibraryIdent ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8EC7FF guibg=NONE
 hi LibraryFunc ctermfg=NONE ctermbg=NONE cterm=NONE guifg=#8FC8FF guibg=NONE
