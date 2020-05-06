@@ -175,6 +175,8 @@ hi! link rsForeignMacro LibraryMacro
 hi! link rsDocComment DocComment
 hi! link rsComment Comment
 hi! link rsCharacter rsOperator
+hi! link rsFalse rsNumber
+hi! link rsTrue rsNumber
 " }}}
 
 "
