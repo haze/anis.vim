@@ -179,6 +179,10 @@ hi! link rsFalse rsNumber
 hi! link rsTrue rsNumber
 " }}}
 
+" Zig
+hi! link zigBoolean zigDecNumber
+" }}}
+
 "
 "cygwin has an annoying behavior where it resets background to light
 "regardless of what is set above, so we force it yet again
