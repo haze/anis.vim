@@ -181,6 +181,7 @@ hi! link rsTrue rsNumber
 
 " Zig
 hi! link zigBoolean zigDecNumber
+hi! link zigCharacter zigDecNumber
 " }}}
 
 "
