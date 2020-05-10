@@ -184,6 +184,11 @@ hi! link zigBoolean zigDecNumber
 hi! link zigCharacter zigDecNumber
 " }}}
 
+" Qf
+hi! link qfFileName MatchParen
+hi! link qfLineNr ErrorMsg
+" }}}
+
 "
 "cygwin has an annoying behavior where it resets background to light
 "regardless of what is set above, so we force it yet again
